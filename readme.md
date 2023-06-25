@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Notmd (21 y.o).</h2>
+<h2 align="center">👋 Hello! I'm Notmd.</h2>
 
 - I'm a third-year student of HCMUTE. I'm a full stack web developer. I'm enjoy working on TypeScript projects.
 
